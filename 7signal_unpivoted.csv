@@ -1,8 +1,0 @@
-location,locationName,clientCount,metricType,goodSum,criticalSum,warningSum
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,ADJACENT_CHANNEL_INTERFERENCE,6415,0,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,COVERAGE,6415,0,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,CO_CHANNEL_INTERFERENCE,6401,14,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,DATA_RATE,6408,11,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,ROAMING,6402,13,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,SEVEN_MCS,5879,45,0
-3aa59147-a45a-4fb5-8981-14b55ea1870e,Global/Lennox and Addington County General Hospital,6,SIGNAL_STRENGTH,6414,5,0
